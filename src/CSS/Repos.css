@@ -1,0 +1,40 @@
+.ownerphoto{
+    width:  150px;
+    height: 150px;
+    /* left: 0px; */
+    margin-left: 50px;
+    /* margin-top: 50px; */
+}
+.s{
+    column-count: 3;
+    column-gap: 0px;
+    margin-top: 150px;
+}
+.side{
+    float: left;
+}
+
+.reponame{
+    font-size: x-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: left;
+    /* margin-left:  225px; */
+    margin-top: 150px;
+}
+
+.des{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    /* margin-left:  225px; */
+    margin-top: 20px;
+}
+
+.star1{
+    /* margin-left:  225px; */
+}
+.stars{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    margin-right: 25px;
+    margin-top: 20px;
+}
